@@ -1,0 +1,20 @@
+#dados_pessoais {
+    background-color: #eeeeee;
+    width: 5px;
+}
+
+#dados_academicos {
+    background-color: #eeeeee;
+    width: 180px;
+}
+
+legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+}
+
+input {
+    margin: 5px;
+    display: block;
+}
